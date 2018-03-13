@@ -8,6 +8,6 @@ An example of a React Component for HelloSign Embedded Signing
 npm i
 npm run build
 Then edit main.js to put a new client id and a new URL
-Change HelloSIgnEmbedded.js skipDomainVerification: false
+Change HelloSIgnEmbedded.js skipDomainVerification: false to true so domain verification is skipped
 Open open index.html file in browswer 
 ```
